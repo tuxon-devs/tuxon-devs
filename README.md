@@ -1,4 +1,4 @@
-<img src="../assets/tuxon-work.jpg"
+<img src="./assets/tuxon-work.jpg"
      alt="Tux.on Linux developers at work"
      align="left"
      width="260"
@@ -15,7 +15,7 @@
 
 <h1>Tux.on Devs</h1>
 
-Equipe de desenvolvimento focada em soluções **Linux-first**, automações com IA e ferramentas para devs.  
+Equipe de desenvolvimento focada em soluções <strong>Linux-first</strong>, automações com IA e ferramentas para devs.  
 Construindo projetos abertos, opinativos e voltados para produtividade em ambientes Linux.
 
 <br clear="left"/>
@@ -34,8 +34,4 @@ Somos um time apaixonado por Linux, desenvolvimento backend/frontend e automaç�
 ## English
 
 Welcome to **Tux.on Devs**!  
-We are a team focused on Linux-first development, infrastructure automation, and developer tooling.
-
-- 🐧 Focus: developer tools, automations, and cloud-native platforms  
-- 🧠 Tech stack: Linux, Docker, Kubernetes, Python, Node.js, Java, C#  
-- 🤝 Goal: build open source projects that make terminal-centric workflows more productive  
+We are a team focused on Linux-first development, infrastruc
