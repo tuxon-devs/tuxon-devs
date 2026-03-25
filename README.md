@@ -1,4 +1,4 @@
-<img src="../assets/tuxon_work.jpg"
+<img src="../assets/tuxon-work.jpg"
      alt="Tux.on Linux developers at work"
      align="left"
      width="260"
