@@ -1,16 +1,41 @@
-## Hi there 👋
+<img src="../assets/tuxon_work.jpg"
+     alt="Tux.on Linux developers at work"
+     align="left"
+     width="260"
+     style="margin-right: 16px;"/>
 
-<!--
-**tuxon-devs/tuxon-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right">
+  <a href="#português">
+    <img src="https://img.shields.io/badge/🇧🇷%20Português-success?style=for-the-badge" />
+  </a>
+  <a href="#english">
+    <img src="https://img.shields.io/badge/🇺🇸%20English-blue?style=for-the-badge" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h1>Tux.on Devs</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Equipe de desenvolvimento focada em soluções **Linux-first**, automações com IA e ferramentas para devs.  
+Construindo projetos abertos, opinativos e voltados para produtividade em ambientes Linux.
+
+<br clear="left"/>
+
+---
+
+## Português
+
+Bem-vindo à **Tux.on Devs**!  
+Somos um time apaixonado por Linux, desenvolvimento backend/frontend e automação de infraestrutura.
+
+- 🐧 Foco: ferramentas para devs, automações e plataformas cloud-native  
+- 🧠 Tecnologias: Linux, Docker, Kubernetes, Python, Node.js, Java, C#  
+- 🤝 Objetivo: criar projetos open source que melhorem o dia a dia de quem vive no terminal  
+
+## English
+
+Welcome to **Tux.on Devs**!  
+We are a team focused on Linux-first development, infrastructure automation, and developer tooling.
+
+- 🐧 Focus: developer tools, automations, and cloud-native platforms  
+- 🧠 Tech stack: Linux, Docker, Kubernetes, Python, Node.js, Java, C#  
+- 🤝 Goal: build open source projects that make terminal-centric workflows more productive  
